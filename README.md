@@ -86,7 +86,6 @@ Built using **Python, Django, PostgreSQL, HTML, CSS, and Bootstrap**.
 
 🔗 **Repository**
 
-
 [![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sachingupta209/Study-Guard)
 
 
@@ -104,7 +103,6 @@ Built using **Python, Tkinter, SQLite, and BCrypt**.
 
 🔗 **Repository**
 
-https://github.com/Sachingupta209/Smart-Inventory-Management
 [![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sachingupta209/Smart-Inventory-Management)
 
 
