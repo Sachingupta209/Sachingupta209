@@ -1,209 +1,96 @@
-<h1 align="center">Hi there, I'm Sachin Anil Gupta 👋</h1>
+# Hi, I'm Sachin Anil Gupta
 
-<h3 align="center">
-Full Stack Developer | Java | JavaScript | React.js | Node.js | NestJS | Spring Boot | AWS
-</h3>
+**Full Stack Developer | Java & Spring Boot | Node.js & NestJS | AWS & DevOps**
 
-<p align="center">
-MCA student and Full Stack Developer passionate about building secure, scalable, and cloud-ready applications.
-Experienced in frontend and backend development using React.js, Node.js, NestJS, Java, Spring Boot, Django, PostgreSQL, REST APIs, Docker, and AWS.
-</p>
+MCA student focused on building secure backend services, REST APIs, and cloud-ready web applications. I work with Java, Spring Boot, React, Node.js, NestJS, PostgreSQL, Docker, and AWS.
 
----
+I enjoy solving practical engineering problems through projects involving API security, database design, containerization, and AI-assisted developer tools.
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 MCA Student at DPGU – School of Management & Research
-- 💻 Full Stack Developer with frontend, backend, database, and cloud experience
-- ⚛️ Building responsive web applications using React.js and JavaScript
-- 🟢 Developing backend applications using Node.js and NestJS
-- ☕ Building secure REST APIs using Java and Spring Boot
-- 🐍 Hands-on experience with Python and Django
-- 🗄️ Working with PostgreSQL, MySQL, MongoDB, and SQL
-- ☁️ Exploring AWS, Cloud Computing, Docker, and DevOps
-- 🔐 Experienced with JWT Authentication and Role-Based Access Control
-- 🚀 Interested in scalable product development and cloud-native applications
-- 📚 Continuously improving DSA, system design, backend development, and cloud skills
+- 🎓 MCA student at DPGU – School of Management & Research
+- 💻 Experience building full-stack applications and REST APIs
+- 🔐 Interested in authentication, authorization, and application security
+- ☁️ Learning cloud infrastructure, Docker, AWS, and CI/CD
+- 🚀 Focused on backend engineering and scalable application development
 
----
+## Technical Skills
 
-## 🛠️ Tech Stack
+**Languages:** Java, JavaScript, TypeScript, Python
 
-### Languages
+**Backend:** Spring Boot, Spring Security, Node.js, NestJS, Django, REST APIs, JWT, RBAC
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,python"/>
-</p>
+**Frontend:** React.js, Vite, HTML, CSS, Bootstrap
 
-### Frontend
+**Databases:** PostgreSQL, MySQL, MongoDB, SQLite
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,bootstrap"/>
-</p>
+**Cloud & DevOps:** AWS, Docker, Docker Compose, Linux, GitHub Actions, Nginx
 
-### Backend
+**Tools:** Git, GitHub, Maven, npm, Postman, Prisma
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring,django"/>
-</p>
+## Featured Projects
 
-### Databases
+### 1. DevForge AI — Docker Security Analyzer
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite"/>
-</p>
+A developer tool that analyzes Dockerfiles and provides security recommendations with AI-assisted explanations.
 
-### Cloud, DevOps & Tools
+**Technologies:** Java 21, Spring Boot, Spring Security, React, PostgreSQL, Gemini AI, Docker, GitHub Actions
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,githubactions,nginx,maven,npm,postman,vscode"/>
-</p>
+- Analyzes Dockerfiles for potential security issues.
+- Provides security scores and actionable recommendations.
+- Implements JWT authentication and secure REST APIs.
+- Uses PostgreSQL for persistent data storage.
+- Supports containerization and CI/CD workflows.
 
----
+**[View Repository →](https://github.com/Sachingupta209/devforge-ai)**
 
-## 🚀 Featured Projects
+### 2. StoreRate — Store Rating Platform
 
-### ⭐ StoreRate – Full-Stack Store Rating Platform
+A full-stack platform for managing stores, user ratings, and role-specific dashboards.
 
-Built using React.js, TypeScript, Node.js, NestJS, Prisma, PostgreSQL, JWT, REST APIs, Docker, and Docker Compose.
+**Technologies:** React, TypeScript, NestJS, Prisma, PostgreSQL, JWT, Docker
 
-Highlights
+- Implements Admin, User, and Store Owner workflows.
+- Supports store search, filtering, sorting, and rating management.
+- Uses JWT authentication and role-based access control.
+- Integrates PostgreSQL through Prisma ORM.
+- Supports containerized development using Docker Compose.
 
-- End-to-end full-stack web application
-- React.js frontend with role-specific dashboards
-- Node.js and NestJS backend
-- REST API development
-- JWT Authentication
-- Role-Based Access Control (RBAC)
-- Admin, User, and Store Owner workflows
-- Store search, filtering, sorting, and rating management
-- PostgreSQL with Prisma ORM
-- Docker & Docker Compose
+**[View Repository →](https://github.com/Sachingupta209/StoreRate)**
 
-🔗 Repository
+### 3. Study Guard — Student Learning Platform
 
-[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sachingupta209/StoreRate)
+A Django-based application for study materials, quizzes, and student progress tracking.
 
----
+**Technologies:** Python, Django, PostgreSQL, JavaScript, HTML, CSS, Bootstrap
 
-### 🤖 DevForge AI – AI-Powered Docker Security Analyzer
+- Provides separate access for students and parents.
+- Supports PDF study-note uploads and quizzes.
+- Tracks quiz results and student progress.
+- Uses Django ORM and role-based access control.
 
-Built using Java 21, Spring Boot, Spring Security, React.js, PostgreSQL, Docker, JWT, REST APIs, Gemini AI, Maven, and GitHub Actions.
+**[View Repository →](https://github.com/Sachingupta209/Study-Guard)**
 
-Highlights
+## Certifications
 
-- Full-stack React + Spring Boot application
-- Dockerfile security analysis
-- Security scoring and recommendations
-- JWT Authentication
-- Spring Security
-- REST API development
-- PostgreSQL integration
-- Gemini AI-assisted security explanations
-- Docker containerization
-- GitHub Actions CI/CD
+- AWS Cloud Practitioner Essentials — Amazon Web Services
+- Java (Basic) — HackerRank
+- Software Engineering Job Simulation — Accenture / Forage
+- Securing Applications on the Cloud — Infosys Springboard
+- Python Training — EduPyramids, SINE IIT Bombay
+- AI Skills Passport — EY & Microsoft
 
-🔗 Repository
+## GitHub Activity
 
-[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sachingupta209/devforge-ai)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sachingupta209&theme=github)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachingupta209&layout=compact&hide_border=true)
 
-### 📚 Study Guard – Quiz & Student Progress Platform
+## Connect With Me
 
-Built using Python, Django, PostgreSQL, JavaScript, HTML5, CSS3, and Bootstrap.
+- **GitHub:** [Sachingupta209](https://github.com/Sachingupta209)
+- **LinkedIn:** [Sachin Gupta](https://www.linkedin.com/in/sachin-gupta-16651a24a/)
+- **HackerRank:** [sachgupta209](https://www.hackerrank.com/profile/sachgupta209)
+- **Email:** [sachgupta209@gmail.com](mailto:sachgupta209@gmail.com)
 
-Highlights
-
-- Django-based full-stack application
-- Student and Parent authentication
-- Role-Based Access Control
-- PDF study-note uploads
-- Automated quiz generation
-- Quiz evaluation and history
-- Student progress tracking
-- Parent dashboard
-- Django ORM with PostgreSQL
-
-🔗 Repository
-
-[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sachingupta209/Study-Guard)
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sachingupta209&theme=github_dark"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachingupta209&layout=compact&hide_border=true"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Sachingupta209&theme=default&hide_border=true"/>
-</p>
-
----
-
-## 🏆 Certifications
-
-- ☁️ AWS Cloud Practitioner Essentials – Amazon Web Services
-- 💻 Software Engineering Job Simulation – Accenture / Forage
-- ☕ Java (Basic) – HackerRank
-- 🔐 Securing Applications on the Cloud – Infosys Springboard
-- 🐍 Python 3.4.3 Training – EduPyramids, SINE IIT Bombay
-- 🤖 AI Skills Passport – EY & Microsoft
-
----
-
-## 🎯 Current Focus
-
-- Full Stack Development
-- JavaScript & TypeScript
-- React.js
-- Node.js & NestJS
-- Java & Spring Boot
-- Python & Django
-- REST API Development
-- PostgreSQL & SQL
-- Data Structures & Algorithms
-- AWS Cloud
-- Docker & CI/CD
-- Backend System Design
-- Production-Ready Applications
-
----
-
-## 🤝 Connect with Me
-
-<p align="center">
-
-<a href="mailto:sachgupta209@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sachin-gupta-16651a24a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Sachingupta209">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/sachgupta209">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-<i>"Building scalable full-stack applications, exploring cloud technologies, and solving real-world problems one project at a time."</i>
-</p>
+*Building useful applications through backend engineering, application security, and cloud technologies.*
